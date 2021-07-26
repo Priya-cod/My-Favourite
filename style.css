@@ -20,3 +20,13 @@ p{
   font-size:30px;
 color:GREEN;  
 }
+
+.footer
+{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  line-height: 3px;
+  background-color:brown;
+  color:aqua;
+}
